@@ -1,7 +1,7 @@
-### Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
+## Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
 Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e também estou no 1º Semestre de DSM da FATEC.
 
-## Sobre mim:
+### Sobre mim:
 
 - 👩‍🍳 Adoro cozinhar, e sempre me arrisco a fazer uns pratos malucos!
 - 🏞 Gosto muito de ir para parques e entrar em contato com a natureza!
@@ -10,7 +10,7 @@ Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e
 - 🎧 Amo ouvir música. Meus gêneros preferidos são: Jazz, Blues, Eletrônica, Rock e Metal! 🤘
 
 <div>
-## Ferramentas e Tecnologias que mais domino:
+### Ferramentas e Tecnologias que mais domino:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -19,7 +19,7 @@ Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e
 </div>
 
 <div>
-## Ferramentas e Tecnologias que estou aprendendo:
+### Ferramentas e Tecnologias que estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
@@ -29,7 +29,7 @@ Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e
 </div>
 
 <div>
-## Feramentas e Tecnlogias que quero aprender:
+### Feramentas e Tecnlogias que quero aprender:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -37,17 +37,12 @@ Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e
 </div>
 
 <div>
-## Redes:
-- 🎮 Discord: Deid#8062
-- ✉ <a href = "mailto:gabrieldeid.android@gmail.com">Email</a>
+### Redes:
+- 🎮 Discord: Deid#8062 </br>
+- ✉ <a href = "mailto:gabrieldeid.android@gmail.com">Email</a> </br>
 - 💼 <a href="https://www.linkedin.com/in/gabriel-santos-392518213/">Linkedin</a>   
 </div>
 
-<div>
-<a href="https://github.com/Bieldeid">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
