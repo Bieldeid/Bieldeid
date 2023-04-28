@@ -1,5 +1,5 @@
 ## Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
-Tenho apenas 18 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e também estou no 1º Semestre de DSM da FATEC.
+Tenho apenas 19 anos, e atualmente estou cursando o 3º Módulo em ADS na ETEC e também estou no 1º Semestre de DSM da FATEC.
 
 ### Sobre mim:
 
