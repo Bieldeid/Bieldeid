@@ -23,7 +23,7 @@ Tenho apenas 19 anos, e atualmente sou técnico em ADS pela ETEC ZL, e também e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" width="40" height="40"/>
+  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
 
 ### Feramentas e Tecnlogias que quero aprender:
