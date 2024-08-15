@@ -1,5 +1,5 @@
 ## Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
-Tenho apenas 20 anos, e atualmente sou técnico em ADS pela ETEC ZL, e também estou no 3º Semestre de DSM da FATEC.
+Tenho apenas 20 anos, e atualmente sou técnico em ADS pela ETEC ZL, e também estou no 6º Semestre de DSM da FATEC.
 
 ### Sobre mim:
 
