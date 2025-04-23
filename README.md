@@ -1,12 +1,11 @@
 ## Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
-Tenho apenas 20 anos, e atualmente sou técnico em ADS pela ETEC ZL, e também estou no 6º Semestre de DSM da FATEC.
+Tenho apenas 21 anos, e atualmente sou técnico em ADS pela ETEC ZL, e formado em DSM pela FATEC.
 
 ### Sobre mim:
 
 - 👩‍🍳 Adoro cozinhar, e sempre me arrisco a fazer uns pratos malucos!
 - 🏞 Gosto muito de ir para parques e entrar em contato com a natureza!
-- 🧘‍♂️ Estou estudando sobre o budismo e tento praticar meditação sempre que possível!
-- 🧊 Um dos meus ídolos e inspiração é o Wim Hof, sou muito interessado em seus ensinamentos e banhos gelados!
+- 🎮 Sempre que posso, tiro um tempinho para jogar qualquer coisa!
 - 🎧 Amo ouvir música. Meus gêneros preferidos são: Jazz, Blues, Eletrônica, Rock e Metal! 🤘
 
 ### Ferramentas e Tecnologias que mais domino:
