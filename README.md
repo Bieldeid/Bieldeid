@@ -44,5 +44,6 @@ Tenho 21 anos e sou formado em **Desenvolvimento de Software Multiplataforma (DS
 
 ---
 
-![snake gif](https://github.com/Bieldeid/Bieldeid/blob/output/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/Bieldeid/Bieldeid/blob/output/github-contribution-grid-snake-dark.svg)
+
 
