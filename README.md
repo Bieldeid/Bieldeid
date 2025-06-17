@@ -1,39 +1,48 @@
-## Aoba, Fio! Eu sou o Gabriel, porém, sou mais conhecido como Deid 👋👍
-Tenho apenas 21 anos, e atualmente sou técnico em ADS pela ETEC ZL, e formado em DSM pela FATEC.
+<!-- Banner minimalista -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Gabriel%20Santos&fontColor=58A6FF&fontSize=40&fontAlignY=35" />
+</p>
+
+## Aoba, Fio! Eu sou o Gabriel, mas sou mais conhecido como Deid 👋👍
+
+Tenho 21 anos e sou formado em **Desenvolvimento de Software Multiplataforma (DSM)** pela FATEC Zona Leste, além de ser técnico em **Análise e Desenvolvimento de Sistemas (ADS)** pela ETEC ZL.
+
+![Status](https://img.shields.io/badge/Disponível%20para-Oportunidades-32CD32?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white)
+![Visits](https://komarev.com/ghpvc/?username=Bieldeid&color=blue&style=for-the-badge)
+
+---
 
 ### Sobre mim:
 
-- 👩‍🍳 Adoro cozinhar, e sempre me arrisco a fazer uns pratos malucos!
-- 🏞 Gosto muito de ir para parques e entrar em contato com a natureza!
+- 👩‍🍳 Adoro cozinhar e sempre me arrisco em uns pratos malucos!
+- 🏞 Gosto muito de ir a parques e curtir a natureza.
 - 🎮 Sempre que posso, tiro um tempinho para jogar qualquer coisa!
-- 🎧 Amo ouvir música. Meus gêneros preferidos são: Jazz, Blues, Eletrônica, Rock e Metal! 🤘
+- 🎧 Amo ouvir música! Meus gêneros preferidos são: Jazz, Blues, Eletrônica, Rock e Metal 🤘
 
-### Ferramentas e Tecnologias que mais domino:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>
+---
 
-### Ferramentas e Tecnologias que estou aprendendo:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</div>
-<br>
+### 🚀 Tecnologias que mais domino:
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bieldeid&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-### Redes:
-<div>
-- ✉ <a href = "mailto:gabrieldeid.android@gmail.com">Email</a> </br>
-- 💼 <a href="https://www.linkedin.com/in/gabriel-santos-392518213/">Linkedin</a>   
-</div>
+### 📘 Tecnologias que estou aprendendo:
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
+---
 
+### 🌐 Redes:
+- ✉ [Email](mailto:gabrieldeid.android@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-santos-392518213/)
 
+---
 
+![snake gif](https://github.com/Bieldeid/Bieldeid/blob/output/github-contribution-grid-snake.svg)
 
