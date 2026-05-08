@@ -5,7 +5,7 @@
 
 ## Aoba, Fio! Eu sou o Gabriel, mas sou mais conhecido como Deid 👋👍
 
-Tenho 21 anos e sou formado em **Desenvolvimento de Software Multiplataforma (DSM)** pela FATEC Zona Leste, além de ser técnico em **Análise e Desenvolvimento de Sistemas (ADS)** pela ETEC ZL.
+Tenho 22 anos e sou formado em **Desenvolvimento de Software Multiplataforma (DSM)** pela FATEC Zona Leste, além de ser técnico em **Análise e Desenvolvimento de Sistemas (ADS)** pela ETEC ZL.
 
 ![Status](https://img.shields.io/badge/Disponível%20para-Oportunidades-32CD32?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white)
 ![Visits](https://komarev.com/ghpvc/?username=Bieldeid&color=blue&style=for-the-badge)
